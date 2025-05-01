@@ -9,7 +9,7 @@ This repository contains the scripts and figure sources used in the manuscript:
 - `/scripts/`: Python and SageMath scripts to compute the canonical summation and entropy measures.
 - `/figures/`: EPS versions of all plots used in the manuscript.
 - `README.md`: This file.
-- `LICENSE`: Open license (e.g., MIT or CC-BY).
+- `LICENSE`: Open license (CC).
 
 ## Citation
 
